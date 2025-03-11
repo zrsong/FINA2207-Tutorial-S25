@@ -4,7 +4,7 @@
 
 | Role  | Name & Contact |
 |-------|---------------|
-| **Tutor** | [Zirui Song](mailto:zirui.song@research.uwa.edu.au)  <br> MPhil Student, Department of Accounting and Finance, UWA Business School |
+| **Tutor** | [Zirui Song](mailto:zirui.song@research.uwa.edu.au)  <br> Department of Accounting and Finance, UWA Business School |
 
 ---
 
