@@ -1,6 +1,6 @@
 # FINA2207 - Tutorial S25 Information
 
-## 👥 Teaching Team
+## 👥 Contributor
 
 | Role  | Name & Contact |
 |-------|---------------|
