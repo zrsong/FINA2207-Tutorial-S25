@@ -36,4 +36,4 @@ For any questions, feel free to reach out via email.
 
 ---
 
-**📢 More materials will be uploaded soon—stay tuned!**  
+**📢 Stay tuned for updates!**  
